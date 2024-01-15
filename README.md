@@ -1,1 +1,1 @@
-This repository containes the clone of the websites that have been made by me using pure HTML and CSS
+This repository contains the clones of the websites I made using pure HTML and CSS.
